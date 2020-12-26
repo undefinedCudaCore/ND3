@@ -33,8 +33,7 @@ namespace ND3
 			};
 
 			var linqIds = items.Where(item => item.Name == "Sellable3").Select(item => item.Id).ToList();
-
-			var a = 0;
+            Console.WriteLine();
 		}
     }
 }
