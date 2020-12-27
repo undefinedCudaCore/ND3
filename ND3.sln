@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassWork3", "ND3\ClassWork
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schulist", "HomeWorkThreeDotOne\Schulist.csproj", "{7A068CC0-17F8-405D-BD56-C9D243834CBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrapper", "WebScrapper\WebScrapper.csproj", "{B3AFC5C4-40C7-43AC-9A38-1C45C15E3191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7A068CC0-17F8-405D-BD56-C9D243834CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A068CC0-17F8-405D-BD56-C9D243834CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A068CC0-17F8-405D-BD56-C9D243834CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AFC5C4-40C7-43AC-9A38-1C45C15E3191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AFC5C4-40C7-43AC-9A38-1C45C15E3191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AFC5C4-40C7-43AC-9A38-1C45C15E3191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AFC5C4-40C7-43AC-9A38-1C45C15E3191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
